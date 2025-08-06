@@ -6,7 +6,7 @@ Play against the computer and see if you can win! 🎮
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to play] [https://your-deploy-link-here.com](https://rock-paper-scissor-pafo.onrender.com)   
+👉 [Click here to play] (https://rock-paper-scissor-pafo.onrender.com)   
 
 ---
 
